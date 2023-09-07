@@ -3,7 +3,10 @@ const players=[
     {
         name:'',
         symbol:'X',
-    },{
+    },
+    {
+        name:'',
+        symbol:'0',
 
     },
 ];

@@ -1,7 +1,7 @@
 #active-game{
     text-align: center;
     margin: 2rem 0 5rem 0; 
-   display: none;
+    display: none;
 }
 #game-over{
     width: 90%;
@@ -12,7 +12,7 @@
     box-shadow: 0 2px 4px rgb(0,0,0,0.2);
     border-radius: 4px;
     color: white;
-   display: none;
+    display: none;
 }
 #active-player-name{
     font-weight: bold;
