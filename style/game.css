@@ -1,7 +1,7 @@
 #active-game{
     text-align: center;
     margin: 2rem 0 5rem 0; 
-    display: none;
+  /*display: none; */
 }
 #game-over{
     width: 90%;
@@ -39,10 +39,10 @@
     font-weight: bold;
 }
 #game-board li:hover{
-    background-color:#8f47ec;
+    background-color:rgb(112,13,204);
 }
-#game-board li:disabled{
-    background-color:#8f47ec;
+#game-board li.disabled{
+    background-color:rgb(112,13,204);;
     color:white;
     cursor: default;
 
