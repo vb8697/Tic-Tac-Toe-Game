@@ -1,22 +1,23 @@
 #active-game{
     text-align: center;
     margin: 2rem 0 5rem 0; 
-  /*display: none; */
+   display: none;
 }
 #game-over{
     width: 90%;
     max-width: 40rem;
     margin: auto;
     padding: 1rem 2rem;
-    background-color: rgb(83, 22, 140);
+    background-color: rgb(40, 2, 76);
     box-shadow: 0 2px 4px rgb(0,0,0,0.2);
     border-radius: 4px;
     color: white;
     display: none;
 }
 #active-player-name{
+    size: 100 ;
     font-weight: bold;
-    color:darkblue;
+    color:rgb(132, 22, 242);;
 }
 #game-board{
     list-style: none;
